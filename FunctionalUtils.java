@@ -40,10 +40,6 @@ public class FunctionalUtils {
     /**
      * Find and return the least element from a collection of given elements that are comparable.
      *
-
-     1
-
-     CSE 216 Homework III Submission Deadline: Apr 21, 2019
      * @param items: the given collection of elements
      * @param from_start: a <code>boolean</code> flag that decides how ties are broken.
      * If <code>true</code>, then the element encountered earlier in
